@@ -1,0 +1,5 @@
+                             ~~ Rules of the game ~~
+The game involves 2 players. Each player is given the same number of game cards (from 1 to 3).
+The game card has 3 rows and 9 columns. There are 15 numbers on the game card. The host calls
+the number and the goal of each player is to mark this number on his playing field. When one
+of the players completely fills at least one playing field, the game ends.
